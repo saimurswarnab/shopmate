@@ -3,4 +3,3 @@ export const CartCard = () => {
     <div>CartCard</div>
   )
 }
-
