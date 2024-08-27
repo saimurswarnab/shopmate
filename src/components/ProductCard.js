@@ -7,7 +7,6 @@ export const ProductCard = ({product}) => {
       <p className="name">{name}</p>
       <div className="action">
         <p>${price}</p>
-        <p>What's his name</p>
         <button>Add To Cart</button>
       </div>
     </div>
