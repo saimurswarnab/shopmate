@@ -31,8 +31,7 @@ header {
   .items{
     font-weight: 500;
     min-width: 70px;
-  }
-  
+  } 
   @media screen and (max-width: 680px) {
     .navigation{
         display: none;
