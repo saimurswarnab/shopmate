@@ -36,7 +36,6 @@
     cursor: pointer;
     max-width: 150px;
   }
-  
   .productCard button:hover{
     background-color: #103f80;
   }
