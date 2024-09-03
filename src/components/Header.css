@@ -22,6 +22,7 @@ header {
   .navigation .link{
     padding: 10px;
   }
+  
   .navigation .link.active{
     background-color: #EEEEEE;
     border-radius: 5px;
