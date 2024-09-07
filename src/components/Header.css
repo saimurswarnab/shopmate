@@ -22,7 +22,7 @@ header {
   .navigation .link{
     padding: 10px;
   }
-  
+
   .navigation .link.active{
     background-color: #EEEEEE;
     border-radius: 5px;
@@ -32,6 +32,7 @@ header {
     font-weight: 500;
     min-width: 70px;
   } 
+  
   @media screen and (max-width: 680px) {
     .navigation{
         display: none;
